@@ -1,0 +1,1 @@
+A Python-based toolkit that automates basic web application security testing. It scans websites for common vulnerabilities such as SQL Injection, XSS (Cross-Site Scripting), and CSRF, helping cybersecurity professionals perform quick assessments for educational and ethical testing purposes.
