@@ -21,6 +21,6 @@ Created for *educational and ethical testing* purposes only.
 
 ## ⚙ Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/web-security-toolkit.git
+git clone https://github.com/venkat-sai/web-security-toolkit.git
 cd web-security-toolkit
 pip install -r requirements.txt
